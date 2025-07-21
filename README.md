@@ -1,6 +1,6 @@
 <p align="center">
-  <img src="assets/horizontal/dark.png#gh-light-mode-only" alt="Merit Systems" width="400">
-  <img src="assets/horizontal/light.png#gh-dark-mode-only" alt="Merit Systems" width="400">
+  <img src="assets/horizontal/dark.png#gh-dark-mode-only" alt="Merit Systems" width="400">
+  <img src="assets/horizontal/light.png#gh-light-mode-only" alt="Merit Systems" width="400">
 </p>
 
 <p align="center">
